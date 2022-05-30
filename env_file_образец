@@ -1,5 +1,5 @@
 SECRET_KEY=django-insecure-g7(+n2a!&tk4vkwx0i3vn15l)(x356xp#lt3m$5onb#rnxx3=z
-DEBUG=True
+DEBUG=False
 EMAIL_HOST=smtp.gmail.com
 EMAIL_PORT=587
 EMAIL_HOST_USER=your_mail
